@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./project.jpg)
+![screenshot](./app_screenshot1.png)
 
 Additional description about the project and its features.
 
